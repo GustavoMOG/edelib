@@ -1,0 +1,130 @@
+/* config.h.in.  Generated from configure.in by autoheader.  */
+
+/* Define to 1 if you have daylight variable */
+#undef HAVE_DAYLIGHT
+
+/* Define to 1 if you have libdbus */
+#undef HAVE_DBUS
+
+/* Define to 1 if you have dbus_watch_get_unix_fd() */
+#undef HAVE_DBUS_WATCH_GET_UNIX_FD
+
+/* Define to 1 if you have FAM installed */
+#undef HAVE_FAM
+
+/* Define to 1 if you have FAMNoExists in FAM implementation */
+#undef HAVE_FAMNOEXISTS
+
+/* Define to 1 if FLTK was compiled with XFT support */
+#undef HAVE_FLTK_XFT
+
+/* Define to 1 if you have gmtime_r() */
+#undef HAVE_GMTIME_R
+
+/* Define to 1 if you have GNU gcc varargs */
+#undef HAVE_GNUC_VARARGS
+
+/* Define to 1 if you have grantpt() */
+#undef HAVE_GRANTPT
+
+/* Define to 1 if you have inotify support in the kernel (Linux only) */
+#undef HAVE_INOTIFY
+
+/* Define to 1 if you have the <inttypes.h> header file. */
+#undef HAVE_INTTYPES_H
+
+/* Define to 1 if you have ISO cpp varargs */
+#undef HAVE_ISO_VARARGS
+
+/* Define to 1 if you have libutil.h */
+#undef HAVE_LIBUTIL_H
+
+/* Define to 1 if you have libXpm */
+#undef HAVE_LIBXPM
+
+/* Define to 1 if you have localtime_r() */
+#undef HAVE_LOCALTIME_R
+
+/* Define to 1 if you have the <memory.h> header file. */
+#undef HAVE_MEMORY_H
+
+/* Define to 1 if you have mmap() */
+#undef HAVE_MMAP
+
+/* Define to 1 if you have ptsname() */
+#undef HAVE_PTSNAME
+
+/* Define to 1 if you have pty.h */
+#undef HAVE_PTY_H
+
+/* Define to 1 if you have settimeofday() */
+#undef HAVE_SETTIMEOFDAY
+
+/* Define to 1 if you have snprintf() */
+#undef HAVE_SNPRINTF
+
+/* Define to 1 if you have the <stdint.h> header file. */
+#undef HAVE_STDINT_H
+
+/* Define to 1 if you have the <stdlib.h> header file. */
+#undef HAVE_STDLIB_H
+
+/* Define to 1 if you have stime() */
+#undef HAVE_STIME
+
+/* Define to 1 if you have the <strings.h> header file. */
+#undef HAVE_STRINGS_H
+
+/* Define to 1 if you have the <string.h> header file. */
+#undef HAVE_STRING_H
+
+/* Define to 1 if you have the <sys/stat.h> header file. */
+#undef HAVE_SYS_STAT_H
+
+/* Define to 1 if you have the <sys/types.h> header file. */
+#undef HAVE_SYS_TYPES_H
+
+/* Define to 1 if you have the <unistd.h> header file. */
+#undef HAVE_UNISTD_H
+
+/* Define to 1 if you have unlockpt() */
+#undef HAVE_UNLOCKPT
+
+/* Define to 1 if you ave unsetenv() */
+#undef HAVE_UNSETENV
+
+/* Define to 1 if you have util.h */
+#undef HAVE_UTIL_H
+
+/* Define to 1 if you have vsnprintf() */
+#undef HAVE_VSNPRINTF
+
+/* Define to 1 if you have _getpty() */
+#undef HAVE__GETPTY
+
+/* Define to the address where bug reports for this package should be sent. */
+#undef PACKAGE_BUGREPORT
+
+/* Define to the full name of this package. */
+#undef PACKAGE_NAME
+
+/* Define to the full name and version of this package. */
+#undef PACKAGE_STRING
+
+/* Define to the one symbol short name of this package. */
+#undef PACKAGE_TARNAME
+
+/* Define to the home page for this package. */
+#undef PACKAGE_URL
+
+/* Define to the version of this package. */
+#undef PACKAGE_VERSION
+
+/* Define to 1 if you have the ANSI C header files. */
+#undef STDC_HEADERS
+
+/* Define to 1 if you want Native Language Support */
+#undef USE_NLS
+
+/* Define to 1 if the X Window System is missing or not being used. */
+#undef X_DISPLAY_MISSING
